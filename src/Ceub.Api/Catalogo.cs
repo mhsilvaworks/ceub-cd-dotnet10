@@ -6,7 +6,7 @@ public static class Catalogo
 {
     public static Entrega[] Listar() =>
     [
-        new(2, "API publicada", "Concluida"),
+        new(1, "API publicada", "Concluida"),
         new(2, "Smoke test executado", "Concluida")
     ];
 }
